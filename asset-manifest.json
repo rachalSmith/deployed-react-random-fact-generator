@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deployed-react-random-fact-generator/static/css/main.18062f04.chunk.css",
+    "main.js": "/deployed-react-random-fact-generator/static/js/main.82c31a21.chunk.js",
+    "main.js.map": "/deployed-react-random-fact-generator/static/js/main.82c31a21.chunk.js.map",
+    "runtime-main.js": "/deployed-react-random-fact-generator/static/js/runtime-main.61defe18.js",
+    "runtime-main.js.map": "/deployed-react-random-fact-generator/static/js/runtime-main.61defe18.js.map",
+    "static/js/2.9dbd4060.chunk.js": "/deployed-react-random-fact-generator/static/js/2.9dbd4060.chunk.js",
+    "static/js/2.9dbd4060.chunk.js.map": "/deployed-react-random-fact-generator/static/js/2.9dbd4060.chunk.js.map",
+    "static/js/3.61d0a9ab.chunk.js": "/deployed-react-random-fact-generator/static/js/3.61d0a9ab.chunk.js",
+    "static/js/3.61d0a9ab.chunk.js.map": "/deployed-react-random-fact-generator/static/js/3.61d0a9ab.chunk.js.map",
+    "index.html": "/deployed-react-random-fact-generator/index.html",
+    "static/css/main.18062f04.chunk.css.map": "/deployed-react-random-fact-generator/static/css/main.18062f04.chunk.css.map",
+    "static/js/2.9dbd4060.chunk.js.LICENSE.txt": "/deployed-react-random-fact-generator/static/js/2.9dbd4060.chunk.js.LICENSE.txt",
+    "static/media/camel.jpg": "/deployed-react-random-fact-generator/static/media/camel.ea1061c2.jpg",
+    "static/media/dolphin.jpg": "/deployed-react-random-fact-generator/static/media/dolphin.024a0de8.jpg",
+    "static/media/snow-leopard.jpg": "/deployed-react-random-fact-generator/static/media/snow-leopard.f6a64789.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61defe18.js",
+    "static/js/2.9dbd4060.chunk.js",
+    "static/css/main.18062f04.chunk.css",
+    "static/js/main.82c31a21.chunk.js"
+  ]
+}
